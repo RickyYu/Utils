@@ -11,9 +11,8 @@ import android.support.v4.content.ContextCompat;
 import android.support.v4.graphics.drawable.DrawableCompat;
 
 /**
- * Created by hjm on 2016/9/4.
- * <p/>
- * 切记：ImageView一定要设为可点击的
+ * @Author :  Created by Ricky at 2018/6/21.
+ * @Email :  yuoy@allinpay.com
  */
 public class TintUtil {
 
